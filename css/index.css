@@ -6,6 +6,12 @@
 @import './wrapper.css';
 @import './menu.css';
 @import './information.css';
+@import './comment.css';
+@import './testimony.css';
+@import './social.css';
+@import './footer.css';
+@import './form.css';
+
 
 
 *{
@@ -17,4 +23,9 @@ body {
   min-block-size: 100vh;
   font: var(--body1);
   color: var(--purple);
+  margin: 0;
+}
+
+.d-none {
+  display: none;
 }

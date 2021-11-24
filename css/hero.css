@@ -12,10 +12,6 @@
   text-align: center;
 }
 
-.hero-social {
-  padding-block-end: 24px;
-}
-
 .hero h1 {
   font: var(--headline3);
   margin: 0;
@@ -24,6 +20,11 @@
 .hero h1 span:first-child {
   font: var(--headline5);
   display: block;
+}
+
+.hero img{
+  max-inline-size: 100%;
+  height: auto;
 }
 
 @media screen and (min-width: 768px) {
