@@ -7,12 +7,11 @@
 @import './menu.css';
 @import './information.css';
 @import './comment.css';
-@import './testimony.css';
+@import './project.css';
 @import './social.css';
 @import './footer.css';
 @import './form.css';
-
-
+@import './title.css';
 
 *{
   box-sizing: border-box;
@@ -26,6 +25,6 @@ body {
   margin: 0;
 }
 
-.d-none {
-  display: none;
+html {
+  scroll-behavior: smooth;
 }

@@ -13,11 +13,11 @@
     "statusBarItem.hoverBackground": "#1196bc",
     "statusBarItem.remoteBackground": "#16bbea",
     "statusBarItem.remoteForeground": "#15202b",
-    "tab.activeBorder": "#45c9ee",
     "titleBar.activeBackground": "#16bbea",
     "titleBar.activeForeground": "#15202b",
     "titleBar.inactiveBackground": "#16bbea99",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#16bbea"
+  "peacock.color": "#16bbea",
+  // "git.path": "C:/Program Files/Git/git-bash.exe"
 }
